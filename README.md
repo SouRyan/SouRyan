@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ryan Brayan</h1>
 <h3 align="center">A student trying to luck in this vast world of technology.</h3>
+<h1 aling="center">📚 Academic training </h1>
+
+```bash
+$ educational-background --list
+
+> [2024 - 2025] Systems Analysis and Development
+  Institution: Cruzeiro do Sul University
+  Status: Graduated
+
+> [2024 - 2026] IT Technician for Internet Computing
+  Institution: Senac São Paulo
+  Status: In Progress
+```
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/c7/2d/14/c72d14aeeb05acf7eefc46c3035b471d.gif" alt="GIF">
