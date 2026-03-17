@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ryan Brayan</h1>
 <h3 align="center">A student trying to luck in this vast world of technology.</h3>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/c7/2d/14/c72d14aeeb05acf7eefc46c3035b471d.gif" alt="GIF">
+</p>
+
 <h1 aling="center">📚 Academic training </h1>
 
 ```bash
@@ -14,9 +19,6 @@ $ educational-background --list
   Status: In Progress
 ```
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/c7/2d/14/c72d14aeeb05acf7eefc46c3035b471d.gif" alt="GIF">
-</p>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ryanbrayan1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryanxbyn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-brayan-franca-souza-35968723b) 
